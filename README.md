@@ -5,8 +5,7 @@ AI Career Navigator is a web application built with Python and Streamlit that he
 ## ☁️ Live Demo
 This application is deployed on Streamlit Cloud and can be accessed directly without any local installation.
 
-➡️ View the Live App
-
+➡️ [View the Live ](https://careernavigato-fg8hn3etzoxlaqwsoxutxa.streamlit.app/)
 ## ✨ Features
 
 * **📄 Intelligent Resume Analysis:** Upload your resume in .pdf or .txt format. The app can process both text-based and scanned PDFs using OCR.
@@ -49,7 +48,7 @@ The application requires a Gemini API key to power the AI chatbot.
 For Local Development
 Create a directory named .streamlit in the root of your project folder.
 
-Inside this directory, create a new file named secrets.toml.
+Inside this directory, create a new file named **secrets.toml**.
 
 Add your Gemini API key to the secrets.toml file like this:
 ```bash
