@@ -52,8 +52,9 @@ Create a directory named .streamlit in the root of your project folder.
 Inside this directory, create a new file named secrets.toml.
 
 Add your Gemini API key to the secrets.toml file like this:
-
-# .streamlit/secrets.toml
+```bash
+.streamlit/secrets.toml
+```
 GEMINI_API_KEY = "YOUR_API_KEY_HERE"
 
 ▶️ Usage
